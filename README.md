@@ -1,6 +1,10 @@
 # JammingFinalProject
 Codecademy Pro Instensive Capstone Project
 
+This application allows the user to search Spotify, create custom playlist, and send the playlist to their user account.
+
+Live Web Application access: http://jamitup.surge.sh/
+
 FEATURES
 Below is a list of the website's features:
 
